@@ -72,12 +72,8 @@ main{
 
 @media only screen and (max-width: 380px) {
     main{
-        width: 80vw;
+        width: 90vw;
         font-size: smaller;
     }
 
-    .introduction p{
-        padding-top: 0px;
-    }
-    
 }
